@@ -3,3 +3,4 @@
 *.swr
 cmake-build-debug/
 .idea/
+foo
