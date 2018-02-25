@@ -1,0 +1,9 @@
+Johnny|Thunders|Foogatan 2|11260|Akalla|520715-0666|42
+Samus|Aran|Blublaeh 234|12030|Jokkmokk|840523-0535|39
+Johan|Johansson|Blahgatan 23|20630|Gullbranna|810225-3552|45
+Edvard|Johansson|Bluppblopp 2|34295|Hejhopp|740927-0912|49
+Lisa|Svensson|Hupphopp 45|12345|Bloppsta|750210-4284|37
+Lisa|Svensson|Bipbop 23|45332|Arvika|790230-3424|38
+Erika|Karlsson|Huppdupp 5|43533|Gullbranna|570217-3424|37
+Erika|Karlsson|Bluppdupp 5|43533|Gullbranna|570217-3424|37
+Jaromir|Jagr|Bondegatan 20|92405|Verwirrung|720215-9525|46
